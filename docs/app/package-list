@@ -1,0 +1,167 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.tradingcriptos.components////PointingToDeclaration/app/com.example.tradingcriptos.components/index.html
+$dokka.location:com.example.tradingcriptos.components//BoxCard/#/PointingToDeclaration/app/com.example.tradingcriptos.components/-box-card.html
+$dokka.location:com.example.tradingcriptos.components//ButtonPreviewDark/#/PointingToDeclaration/app/com.example.tradingcriptos.components/-button-preview-dark.html
+$dokka.location:com.example.tradingcriptos.components//ButtonPreviewLight/#/PointingToDeclaration/app/com.example.tradingcriptos.components/-button-preview-light.html
+$dokka.location:com.example.tradingcriptos.components//CardContainer/#/PointingToDeclaration/app/com.example.tradingcriptos.components/-card-container.html
+$dokka.location:com.example.tradingcriptos.components//CardPreview/#/PointingToDeclaration/app/com.example.tradingcriptos.components/-card-preview.html
+$dokka.location:com.example.tradingcriptos.components//CriptoButton/#/PointingToDeclaration/app/com.example.tradingcriptos.components/-cripto-button.html
+$dokka.location:com.example.tradingcriptos.components//RightContent/#/PointingToDeclaration/app/com.example.tradingcriptos.components/-right-content.html
+$dokka.location:com.example.tradingcriptos.components//leftContent/#/PointingToDeclaration/app/com.example.tradingcriptos.components/left-content.html
+$dokka.location:com.example.tradingcriptos.data.remote.api////PointingToDeclaration/app/com.example.tradingcriptos.data.remote.api/index.html
+$dokka.location:com.example.tradingcriptos.data.remote.api/BitsoApi///PointingToDeclaration/app/com.example.tradingcriptos.data.remote.api/-bitso-api/index.html
+$dokka.location:com.example.tradingcriptos.data.remote.api/BitsoApi/getCriptos/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.api/-bitso-api/get-criptos.html
+$dokka.location:com.example.tradingcriptos.data.remote.models////PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/index.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/BitsoResponse///PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-bitso-response/index.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/BitsoResponse/BitsoResponse/#kotlin.Boolean#kotlin.collections.List[com.example.tradingcriptos.data.remote.models.Payload]/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-bitso-response/-bitso-response.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/BitsoResponse/payload/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-bitso-response/payload.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/BitsoResponse/success/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-bitso-response/success.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Fees///PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-fees/index.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Fees/Fees/#com.example.tradingcriptos.data.remote.models.Flat_rate#kotlin.collections.List[com.example.tradingcriptos.data.remote.models.Structure]/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-fees/-fees.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Fees/flat_rate/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-fees/flat_rate.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Fees/structure/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-fees/structure.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Flat_rate///PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-flat_rate/index.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Flat_rate/Flat_rate/#kotlin.Double#kotlin.Double/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-flat_rate/-flat_rate.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Flat_rate/maker/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-flat_rate/maker.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Flat_rate/taker/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-flat_rate/taker.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload///PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/index.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/Payload/#kotlin.String#kotlin.Double#kotlin.Double#kotlin.Double#kotlin.Double#kotlin.Double#kotlin.Double#kotlin.Double#kotlin.String#com.example.tradingcriptos.data.remote.models.Fees/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/-payload.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/book/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/book.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/default_chart/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/default_chart.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/fees/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/fees.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/maximum_amount/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/maximum_amount.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/maximum_price/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/maximum_price.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/maximum_value/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/maximum_value.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/minimum_amount/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/minimum_amount.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/minimum_price/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/minimum_price.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/minimum_value/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/minimum_value.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Payload/tick_size/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-payload/tick_size.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Structure///PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-structure/index.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Structure/Structure/#kotlin.Double#kotlin.Double#kotlin.Double/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-structure/-structure.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Structure/maker/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-structure/maker.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Structure/taker/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-structure/taker.html
+$dokka.location:com.example.tradingcriptos.data.remote.models/Structure/volume/#/PointingToDeclaration/app/com.example.tradingcriptos.data.remote.models/-structure/volume.html
+$dokka.location:com.example.tradingcriptos.data.repositorie////PointingToDeclaration/app/com.example.tradingcriptos.data.repositorie/index.html
+$dokka.location:com.example.tradingcriptos.data.repositorie/CriptosRepository///PointingToDeclaration/app/com.example.tradingcriptos.data.repositorie/-criptos-repository/index.html
+$dokka.location:com.example.tradingcriptos.data.repositorie/CriptosRepository/getCriptos/#/PointingToDeclaration/app/com.example.tradingcriptos.data.repositorie/-criptos-repository/get-criptos.html
+$dokka.location:com.example.tradingcriptos.data.repositorie/CriptosRepositoryImpl///PointingToDeclaration/app/com.example.tradingcriptos.data.repositorie/-criptos-repository-impl/index.html
+$dokka.location:com.example.tradingcriptos.data.repositorie/CriptosRepositoryImpl/CriptosRepositoryImpl/#com.example.tradingcriptos.data.CriptosRemoteDataSource/PointingToDeclaration/app/com.example.tradingcriptos.data.repositorie/-criptos-repository-impl/-criptos-repository-impl.html
+$dokka.location:com.example.tradingcriptos.data.repositorie/CriptosRepositoryImpl/getCriptos/#/PointingToDeclaration/app/com.example.tradingcriptos.data.repositorie/-criptos-repository-impl/get-criptos.html
+$dokka.location:com.example.tradingcriptos.data////PointingToDeclaration/app/com.example.tradingcriptos.data/index.html
+$dokka.location:com.example.tradingcriptos.data/CriptosRemoteDataSource///PointingToDeclaration/app/com.example.tradingcriptos.data/-criptos-remote-data-source/index.html
+$dokka.location:com.example.tradingcriptos.data/CriptosRemoteDataSource/getCriptos/#/PointingToDeclaration/app/com.example.tradingcriptos.data/-criptos-remote-data-source/get-criptos.html
+$dokka.location:com.example.tradingcriptos.data/CriptosRemoteDataSourceImpl///PointingToDeclaration/app/com.example.tradingcriptos.data/-criptos-remote-data-source-impl/index.html
+$dokka.location:com.example.tradingcriptos.data/CriptosRemoteDataSourceImpl/CriptosRemoteDataSourceImpl/#com.example.tradingcriptos.data.remote.api.BitsoApi/PointingToDeclaration/app/com.example.tradingcriptos.data/-criptos-remote-data-source-impl/-criptos-remote-data-source-impl.html
+$dokka.location:com.example.tradingcriptos.data/CriptosRemoteDataSourceImpl/getCriptos/#/PointingToDeclaration/app/com.example.tradingcriptos.data/-criptos-remote-data-source-impl/get-criptos.html
+$dokka.location:com.example.tradingcriptos.di////PointingToDeclaration/app/com.example.tradingcriptos.di/index.html
+$dokka.location:com.example.tradingcriptos.di/CriptosModule///PointingToDeclaration/app/com.example.tradingcriptos.di/-criptos-module/index.html
+$dokka.location:com.example.tradingcriptos.di/CriptosModule/CriptosModule/#/PointingToDeclaration/app/com.example.tradingcriptos.di/-criptos-module/-criptos-module.html
+$dokka.location:com.example.tradingcriptos.di/CriptosModule/provideApplicationContext/#android.content.Context/PointingToDeclaration/app/com.example.tradingcriptos.di/-criptos-module/provide-application-context.html
+$dokka.location:com.example.tradingcriptos.di/DataSourceModule///PointingToDeclaration/app/com.example.tradingcriptos.di/-data-source-module/index.html
+$dokka.location:com.example.tradingcriptos.di/DataSourceModule/DataSourceModule/#/PointingToDeclaration/app/com.example.tradingcriptos.di/-data-source-module/-data-source-module.html
+$dokka.location:com.example.tradingcriptos.di/DataSourceModule/bindCriptosRemoteDataSource/#com.example.tradingcriptos.data.CriptosRemoteDataSourceImpl/PointingToDeclaration/app/com.example.tradingcriptos.di/-data-source-module/bind-criptos-remote-data-source.html
+$dokka.location:com.example.tradingcriptos.di/NetworkModule///PointingToDeclaration/app/com.example.tradingcriptos.di/-network-module/index.html
+$dokka.location:com.example.tradingcriptos.di/NetworkModule/NetworkModule/#/PointingToDeclaration/app/com.example.tradingcriptos.di/-network-module/-network-module.html
+$dokka.location:com.example.tradingcriptos.di/NetworkModule/provideApi/#retrofit2.Retrofit/PointingToDeclaration/app/com.example.tradingcriptos.di/-network-module/provide-api.html
+$dokka.location:com.example.tradingcriptos.di/NetworkModule/provideHttpClient/#/PointingToDeclaration/app/com.example.tradingcriptos.di/-network-module/provide-http-client.html
+$dokka.location:com.example.tradingcriptos.di/NetworkModule/provideRetrofit/#okhttp3.OkHttpClient/PointingToDeclaration/app/com.example.tradingcriptos.di/-network-module/provide-retrofit.html
+$dokka.location:com.example.tradingcriptos.di/RepositoryModule///PointingToDeclaration/app/com.example.tradingcriptos.di/-repository-module/index.html
+$dokka.location:com.example.tradingcriptos.di/RepositoryModule/RepositoryModule/#/PointingToDeclaration/app/com.example.tradingcriptos.di/-repository-module/-repository-module.html
+$dokka.location:com.example.tradingcriptos.di/RepositoryModule/bindCriptosRepository/#com.example.tradingcriptos.data.repositorie.CriptosRepositoryImpl/PointingToDeclaration/app/com.example.tradingcriptos.di/-repository-module/bind-criptos-repository.html
+$dokka.location:com.example.tradingcriptos.domain.usecases////PointingToDeclaration/app/com.example.tradingcriptos.domain.usecases/index.html
+$dokka.location:com.example.tradingcriptos.domain.usecases/CriptosUseCase///PointingToDeclaration/app/com.example.tradingcriptos.domain.usecases/-criptos-use-case/index.html
+$dokka.location:com.example.tradingcriptos.domain.usecases/CriptosUseCase/CriptosUseCase/#com.example.tradingcriptos.data.repositorie.CriptosRepository/PointingToDeclaration/app/com.example.tradingcriptos.domain.usecases/-criptos-use-case/-criptos-use-case.html
+$dokka.location:com.example.tradingcriptos.domain.usecases/CriptosUseCase/getCriptos/#/PointingToDeclaration/app/com.example.tradingcriptos.domain.usecases/-criptos-use-case/get-criptos.html
+$dokka.location:com.example.tradingcriptos.domain.viewmodels////PointingToDeclaration/app/com.example.tradingcriptos.domain.viewmodels/index.html
+$dokka.location:com.example.tradingcriptos.domain.viewmodels/CriptosViewModel///PointingToDeclaration/app/com.example.tradingcriptos.domain.viewmodels/-criptos-view-model/index.html
+$dokka.location:com.example.tradingcriptos.domain.viewmodels/CriptosViewModel/CriptosViewModel/#com.example.tradingcriptos.domain.usecases.CriptosUseCase/PointingToDeclaration/app/com.example.tradingcriptos.domain.viewmodels/-criptos-view-model/-criptos-view-model.html
+$dokka.location:com.example.tradingcriptos.domain.viewmodels/CriptosViewModel/getCriptos/#kotlin.Function1[kotlin.collections.List[com.example.tradingcriptos.data.remote.models.Payload],kotlin.Unit]#kotlin.Function1[com.example.tradingcriptos.utils.ErrorResponse,kotlin.Unit]/PointingToDeclaration/app/com.example.tradingcriptos.domain.viewmodels/-criptos-view-model/get-criptos.html
+$dokka.location:com.example.tradingcriptos.tutorial////PointingToDeclaration/app/com.example.tradingcriptos.tutorial/index.html
+$dokka.location:com.example.tradingcriptos.tutorial//PI/#/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-p-i.html
+$dokka.location:com.example.tradingcriptos.tutorial//adjacentProduct/#kotlin.Array[kotlin.Int]/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/adjacent-product.html
+$dokka.location:com.example.tradingcriptos.tutorial//age/#/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/age.html
+$dokka.location:com.example.tradingcriptos.tutorial//fibonacci/#kotlin.Int/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/fibonacci.html
+$dokka.location:com.example.tradingcriptos.tutorial//lastname/#/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/lastname.html
+$dokka.location:com.example.tradingcriptos.tutorial//multiTable/#kotlin.Int/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/multi-table.html
+$dokka.location:com.example.tradingcriptos.tutorial//name/#/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/name.html
+$dokka.location:com.example.tradingcriptos.tutorial//nombre/#/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/nombre.html
+$dokka.location:com.example.tradingcriptos.tutorial//sum/#kotlin.Int#kotlin.Int/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/sum.html
+$dokka.location:com.example.tradingcriptos.tutorial/Desarrollador///PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-desarrollador/index.html
+$dokka.location:com.example.tradingcriptos.tutorial/Desarrollador/Desarrollador/#kotlin.String/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-desarrollador/-desarrollador.html
+$dokka.location:com.example.tradingcriptos.tutorial/Desarrollador/develop/#/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-desarrollador/develop.html
+$dokka.location:com.example.tradingcriptos.tutorial/Desarrollador/languages/#/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-desarrollador/languages.html
+$dokka.location:com.example.tradingcriptos.tutorial/IEstudiante///PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-i-estudiante/index.html
+$dokka.location:com.example.tradingcriptos.tutorial/IEstudiante/estudiar/#kotlin.String/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-i-estudiante/estudiar.html
+$dokka.location:com.example.tradingcriptos.tutorial/IEstudiante/reprobar/#kotlin.String/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-i-estudiante/reprobar.html
+$dokka.location:com.example.tradingcriptos.tutorial/Ideveloper///PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-ideveloper/index.html
+$dokka.location:com.example.tradingcriptos.tutorial/MarioEstudiante///PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-mario-estudiante/index.html
+$dokka.location:com.example.tradingcriptos.tutorial/MarioEstudiante/MarioEstudiante/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-mario-estudiante/-mario-estudiante.html
+$dokka.location:com.example.tradingcriptos.tutorial/MarioEstudiante/estudiar/#kotlin.String/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-mario-estudiante/estudiar.html
+$dokka.location:com.example.tradingcriptos.tutorial/MarioEstudiante/materias/#/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-mario-estudiante/materias.html
+$dokka.location:com.example.tradingcriptos.tutorial/MarioEstudiante/reprobar/#kotlin.String/PointingToDeclaration/app/com.example.tradingcriptos.tutorial/-mario-estudiante/reprobar.html
+$dokka.location:com.example.tradingcriptos.ui.theme////PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/index.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Blue/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-blue.html
+$dokka.location:com.example.tradingcriptos.ui.theme//BlueDark/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-blue-dark.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Cyan/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-cyan.html
+$dokka.location:com.example.tradingcriptos.ui.theme//CyanDark/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-cyan-dark.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Orange/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-orange.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Purple200/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-purple200.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Purple500/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-purple500.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Purple700/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-purple700.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Shapes/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-shapes.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Teal200/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-teal200.html
+$dokka.location:com.example.tradingcriptos.ui.theme//TradingCriptosTheme/#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-trading-criptos-theme.html
+$dokka.location:com.example.tradingcriptos.ui.theme//Typography/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.theme/-typography.html
+$dokka.location:com.example.tradingcriptos.ui.ui.theme////PointingToDeclaration/app/com.example.tradingcriptos.ui.ui.theme/index.html
+$dokka.location:com.example.tradingcriptos.ui.ui.theme//Purple200/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.ui.theme/-purple200.html
+$dokka.location:com.example.tradingcriptos.ui.ui.theme//Purple500/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.ui.theme/-purple500.html
+$dokka.location:com.example.tradingcriptos.ui.ui.theme//Purple700/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.ui.theme/-purple700.html
+$dokka.location:com.example.tradingcriptos.ui.ui.theme//Shapes/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.ui.theme/-shapes.html
+$dokka.location:com.example.tradingcriptos.ui.ui.theme//Teal200/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.ui.theme/-teal200.html
+$dokka.location:com.example.tradingcriptos.ui.ui.theme//TradingCriptosTheme/#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.example.tradingcriptos.ui.ui.theme/-trading-criptos-theme.html
+$dokka.location:com.example.tradingcriptos.ui.ui.theme//Typography/#/PointingToDeclaration/app/com.example.tradingcriptos.ui.ui.theme/-typography.html
+$dokka.location:com.example.tradingcriptos.ui////PointingToDeclaration/app/com.example.tradingcriptos.ui/index.html
+$dokka.location:com.example.tradingcriptos.ui//DefaultPreview/#/PointingToDeclaration/app/com.example.tradingcriptos.ui/-default-preview.html
+$dokka.location:com.example.tradingcriptos.ui//Greeting/#kotlin.String/PointingToDeclaration/app/com.example.tradingcriptos.ui/-greeting.html
+$dokka.location:com.example.tradingcriptos.ui/CriptoDetailActivity///PointingToDeclaration/app/com.example.tradingcriptos.ui/-cripto-detail-activity/index.html
+$dokka.location:com.example.tradingcriptos.ui/CriptoDetailActivity/CriptoDetailActivity/#/PointingToDeclaration/app/com.example.tradingcriptos.ui/-cripto-detail-activity/-cripto-detail-activity.html
+$dokka.location:com.example.tradingcriptos.utils////PointingToDeclaration/app/com.example.tradingcriptos.utils/index.html
+$dokka.location:com.example.tradingcriptos.utils/DataState.Error///PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/-error/index.html
+$dokka.location:com.example.tradingcriptos.utils/DataState.Error/Error/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/-error/-error.html
+$dokka.location:com.example.tradingcriptos.utils/DataState.Error/error/#/PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/-error/error.html
+$dokka.location:com.example.tradingcriptos.utils/DataState.Finished///PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/-finished/index.html
+$dokka.location:com.example.tradingcriptos.utils/DataState.Loading///PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/-loading/index.html
+$dokka.location:com.example.tradingcriptos.utils/DataState.Success///PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/-success/index.html
+$dokka.location:com.example.tradingcriptos.utils/DataState.Success/Success/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/-success/-success.html
+$dokka.location:com.example.tradingcriptos.utils/DataState.Success/data/#/PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/-success/data.html
+$dokka.location:com.example.tradingcriptos.utils/DataState///PointingToDeclaration/app/com.example.tradingcriptos.utils/-data-state/index.html
+$dokka.location:com.example.tradingcriptos.utils/ErrorResponse///PointingToDeclaration/app/com.example.tradingcriptos.utils/-error-response/index.html
+$dokka.location:com.example.tradingcriptos.utils/ErrorResponse/ErrorResponse/#kotlin.Int?#kotlin.String?#kotlin.String?/PointingToDeclaration/app/com.example.tradingcriptos.utils/-error-response/-error-response.html
+$dokka.location:com.example.tradingcriptos.utils/ErrorResponse/details/#/PointingToDeclaration/app/com.example.tradingcriptos.utils/-error-response/details.html
+$dokka.location:com.example.tradingcriptos.utils/ErrorResponse/errorCode/#/PointingToDeclaration/app/com.example.tradingcriptos.utils/-error-response/error-code.html
+$dokka.location:com.example.tradingcriptos.utils/ErrorResponse/status/#/PointingToDeclaration/app/com.example.tradingcriptos.utils/-error-response/status.html
+$dokka.location:com.example.tradingcriptos.utils/ReleaseTree.Companion///PointingToDeclaration/app/com.example.tradingcriptos.utils/-release-tree/-companion/index.html
+$dokka.location:com.example.tradingcriptos.utils/ReleaseTree///PointingToDeclaration/app/com.example.tradingcriptos.utils/-release-tree/index.html
+$dokka.location:com.example.tradingcriptos.utils/ReleaseTree/ReleaseTree/#/PointingToDeclaration/app/com.example.tradingcriptos.utils/-release-tree/-release-tree.html
+$dokka.location:com.example.tradingcriptos////PointingToDeclaration/app/com.example.tradingcriptos/index.html
+$dokka.location:com.example.tradingcriptos/BaseApplication///PointingToDeclaration/app/com.example.tradingcriptos/-base-application/index.html
+$dokka.location:com.example.tradingcriptos/BaseApplication/BaseApplication/#/PointingToDeclaration/app/com.example.tradingcriptos/-base-application/-base-application.html
+$dokka.location:com.example.tradingcriptos/BaseApplication/onCreate/#/PointingToDeclaration/app/com.example.tradingcriptos/-base-application/on-create.html
+$dokka.location:com.example.tradingcriptos/MainActivity///PointingToDeclaration/app/com.example.tradingcriptos/-main-activity/index.html
+$dokka.location:com.example.tradingcriptos/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.tradingcriptos/-main-activity/-main-activity.html
+com.example.tradingcriptos
+com.example.tradingcriptos.components
+com.example.tradingcriptos.data
+com.example.tradingcriptos.data.remote.api
+com.example.tradingcriptos.data.remote.models
+com.example.tradingcriptos.data.repositorie
+com.example.tradingcriptos.di
+com.example.tradingcriptos.domain.usecases
+com.example.tradingcriptos.domain.viewmodels
+com.example.tradingcriptos.tutorial
+com.example.tradingcriptos.ui
+com.example.tradingcriptos.ui.theme
+com.example.tradingcriptos.ui.ui.theme
+com.example.tradingcriptos.utils
+
