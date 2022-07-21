@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951887111019",
+    "project_id": "criptos-cbe33",
+    "storage_bucket": "criptos-cbe33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951887111019:android:fa6448f1fae867f84f622e",
+        "android_client_info": {
+          "package_name": "com.m8a.tradingcriptos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951887111019-rjssmvn8mai52k59pd9dmb5r8vl2pfdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m8a.tradingcriptos",
+            "certificate_hash": "ebbb4e45c727086234370c61b8e71403143f8208"
+          }
+        },
+        {
+          "client_id": "951887111019-5n8dj6dbaddnol4iakva5j8ksq4fh1g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt2de1ALi1369IMrWeiBoY6y4jleU5Y6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951887111019-5n8dj6dbaddnol4iakva5j8ksq4fh1g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
