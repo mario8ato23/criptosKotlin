@@ -6,6 +6,6 @@ import retrofit2.http.GET
 
 interface BitsoApi {
 
-    @GET("/v3/available/_books")
+    @GET("/v3/available_books/")
     suspend fun getCriptos(): Response<BitsoResponse>
 }

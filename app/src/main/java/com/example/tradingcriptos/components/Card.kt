@@ -16,7 +16,6 @@ import androidx.compose.ui.unit.dp
 import com.example.tradingcriptos.R
 import com.example.tradingcriptos.ui.theme.TradingCriptosTheme
 
-
 @Composable
 fun RightContent() {
     Column(modifier = Modifier
@@ -42,7 +41,6 @@ fun leftContent() {
         Text(text = "Productos")
     }
 }
-
 
 @Composable
 fun CardContainer() {

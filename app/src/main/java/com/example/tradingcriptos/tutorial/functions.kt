@@ -7,6 +7,6 @@ package com.example.tradingcriptos.tutorial
  * @return int result
  * */
 
-fun sum (a: Int, b: Int): Int {
+fun sum(a: Int, b: Int): Int {
     return a + b
 }

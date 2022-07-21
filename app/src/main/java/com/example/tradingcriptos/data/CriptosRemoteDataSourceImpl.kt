@@ -5,9 +5,9 @@ import com.example.tradingcriptos.data.remote.models.Payload
 import com.example.tradingcriptos.utils.DataState
 import com.example.tradingcriptos.utils.ErrorResponse
 import javax.inject.Inject
+import timber.log.Timber
 
-
-class CriptosRemoteDataSourceImpl @Inject constructor(private val api: BitsoApi): CriptosRemoteDataSource{
+class CriptosRemoteDataSourceImpl @Inject constructor(private val api: BitsoApi) : CriptosRemoteDataSource {
 
         override suspend fun getCriptos(): DataState<List<Payload>, ErrorResponse> {
 
@@ -21,7 +21,6 @@ class CriptosRemoteDataSourceImpl @Inject constructor(private val api: BitsoApi)
                     if (criptos != null) {
 
                         return DataState.Success(data = criptos)
-
                     } else {
                         return DataState.Error(
                             error = ErrorResponse(
@@ -41,7 +40,7 @@ class CriptosRemoteDataSourceImpl @Inject constructor(private val api: BitsoApi)
                     )
                 }
             } catch (e: Exception) {
-
+                Timber.e(e)
                 return DataState.Error(
                     error = ErrorResponse(
                         status = 500,

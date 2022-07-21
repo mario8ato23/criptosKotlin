@@ -11,8 +11,8 @@ For support, please feel free to contact me at https://www.linkedin.com/in/syeda
 package com.example.tradingcriptos.data.remote.models
 import com.google.gson.annotations.SerializedName
 
-data class BitsoResponse (
+data class BitsoResponse(
 
-	@SerializedName("success") val success : Boolean,
-	@SerializedName("payload") val payload : List<Payload>
+    @SerializedName("success") val success: Boolean,
+    @SerializedName("payload") val payload: List<Payload>
 )

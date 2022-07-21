@@ -3,7 +3,7 @@ package com.example.tradingcriptos.tutorial
 // Mutable variable
 var name: String = "Mario"
 
-//Read only (No mutable)
+// Read only (No mutable)
 val lastname = "Ochoa"
 // enteros
 // boolean

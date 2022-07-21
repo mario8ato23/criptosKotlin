@@ -11,9 +11,9 @@ For support, please feel free to contact me at https://www.linkedin.com/in/syeda
 package com.example.tradingcriptos.data.remote.models
 import com.google.gson.annotations.SerializedName
 
-data class Structure (
+data class Structure(
 
-	@SerializedName("volume") val volume : Int,
-	@SerializedName("maker") val maker : Double,
-	@SerializedName("taker") val taker : Double
+    @SerializedName("volume") val volume: Double,
+    @SerializedName("maker") val maker: Double,
+    @SerializedName("taker") val taker: Double
 )

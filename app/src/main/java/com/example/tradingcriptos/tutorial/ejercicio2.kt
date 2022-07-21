@@ -10,13 +10,13 @@ interface IEstudiante {
     fun reprobar(arg: String)
 }
 
-class MarioEstudiante(val materias: List<String>):IEstudiante {
+class MarioEstudiante(val materias: List<String>) : IEstudiante {
 
     override fun estudiar(arg: String) {
-        println("Estudiar ${arg}")
+        println("Estudiar $arg")
     }
 
     override fun reprobar(arg: String) {
-        println("ya reprobaste :( ${arg}")
+        println("ya reprobaste :( $arg")
     }
 }
